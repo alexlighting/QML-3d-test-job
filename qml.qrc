@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Sphere.qml</file>
+        <file>Cube.qml</file>
+        <file>Cylinder.qml</file>
+        <file>Cone.qml</file>
+    </qresource>
+</RCC>
